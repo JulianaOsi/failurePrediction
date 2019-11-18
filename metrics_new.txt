@@ -1,0 +1,1575 @@
+{
+   
+	"farmaimpex": {
+
+"jmx Nonheap Memory Usage, MB": "monitoringMetric$8425028",
+       
+"jmx Process Cpu Load, 0-1": "monitoringMetric$8425029",
+
+"jmx Buffer Pool Direct Memory Used, bytes": "monitoringMetric$8425030",
+        
+"jmx Heap Memory Usage, MB": "monitoringMetric$8425031",
+"jmx Check Mail Scheduler, 0/1": "monitoringMetric$8425032",
+ 
+       
+"jmx System Cpu Load, 0-1": "monitoringMetric$8425033",
+
+"jmx Buffer Pool Direct Count": "monitoringMetric$8425034",
+
+"jmx Rest Operations Count (total)": "monitoringMetric$8425035",
+"jmx JMS Queue Advimport Count": "monitoringMetric$8425036",
+
+"http Status, 0/1 (proxy)": "monitoringMetric$8425037",
+"http Status, 0/1": "monitoringMetric$8425038",
+       
+"http availability, 0/1": "monitoringMetric$8425039",
+"jmx Thread Count Peak": "monitoringMetric$8425040",
+"jmx JMS Queue EventAction Added (total)": "monitoringMetric$8425041",         
+"jmx JMS Queue DocumentIndexer Added (total)": "monitoringMetric$8425042",
+"jmx JMS Queue EventAction Count": "monitoringMetric$8425043",
+       
+"jmx JMS Queue Advlist.Export Added (total)": "monitoringMetric$8425044",
+
+
+"jmx JMS Queue DocumentIndexer Count": "monitoringMetric$8425045",
+
+"http availability service mode, 0/1": "monitoringMetric$8425046",
+       
+"jmx JMS Queue Advimport Added (total)": "monitoringMetric$8425047",
+       
+"jmx JMS Queue Advlist.Export Count": "monitoringMetric$8425048",
+"http user licenses, 0/1": "monitoringMetric$8425049"
+
+"jmx Class Loaded Count": "monitoringMetric$8425054",
+"jmx JMS Queue EventAction.Pushes Count": "monitoringMetric$8425056",
+"jmx JMS Queue EventAction.Pushes Added (total)": "monitoringMetric$8425058",
+       
+"jmx JMS Queue EventAction.Notifications Count": "monitoringMetric$8425059",
+"jmx JMS Queue EventAction.Notifications Added (total)": "monitoringMetric$8425060",
+"jmx JMS Queue External.EventAction Count": "monitoringMetric$8425061",
+
+"jmx JMS Queue External.EventAction Added (total)": "monitoringMetric$8425062",
+"jmx JMS Queue Reports.Export Count": "monitoringMetric$8425063",
+"jmx JMS Queue Reports.Export Added (total)": "monitoringMetric$8425065",
+
+"jmx JMS Queue Reports.BuildReport Count": "monitoringMetric$8425066",
+
+"jmx JMS Queue Reports.BuildReport Added (total)": "monitoringMetric$8425067",
+"jmx Memory Code Cache Max, MB": "monitoringMetric$8425069",
+       
+"jmx Dispatch Input Traffic (total), bytes": "monitoringMetric$8425070",
+"jmx Heap Memory Max, MB": "monitoringMetric$8425071",
+      
+"jmx Dispatch Count (total)": "monitoringMetric$8425072",
+       
+"jmx Dispatch Output Traffic (total), bytes": "monitoringMetric$8425073",
+       
+"jmx Dispatch SQL Count (total)": "monitoringMetric$8425074",
+       	
+"jmx Memory Code Cache Used, MB": "monitoringMetric$8425075",
+  
+"jmx Memory Code Cache Committed, MB": "monitoringMetric$8425076",
+       
+"jmx Memory Metaspace Committed, MB": "monitoringMetric$8425077",
+              
+"jmx Memory Metaspace Max, MB": "monitoringMetric$8425078",
+              
+"jmx Memory Metaspace Used, MB": "monitoringMetric$8425079",
+"icmp Is Reachable, 0-1": "monitoringMetric$8425080",
+
+
+"jmx DB Main Pool Connections Busy": "monitoringMetric$8425081",
+"jmx Open Files Count": "monitoringMetric$8425082",
+       
+"jmx DB Sequence Pool Connections Max": "monitoringMetric$8425084",
+
+"jmx GC Minor Duration (total), ms": "monitoringMetric$8425083",
+ 
+"jmx GC Full Duration (total), ms": "monitoringMetric$8425085",       
+"jmx DB Main Pool Connections Max": "monitoringMetric$8425086",
+       
+"jmx DB Main Pool Connections Count": "monitoringMetric$8425087",
+       
+"jmx DB Sequence Pool Connections Count": "monitoringMetric$8425088",
+       
+"jmx DB Sequence Pool Connections Busy": "monitoringMetric$8425089",
+
+"jmx Tomcat Threads Max": "monitoringMetric$8425090",       
+"jmx Tomcat Uptime, ms": "monitoringMetric$8425091",
+"icmp Get Time, msec": "monitoringMetric$8425092",
+"jmx Tomcat Threads Count": "monitoringMetric$8425093",
+"jmx Thread Count": "monitoringMetric$8425094",
+       
+"jmx Tomcat Threads Busy": "monitoringMetric$8425095",
+ 
+"jmx Tomcat Connections Count": "monitoringMetric$8425096",
+
+"jmx Tomcat Connections Max": "monitoringMetric$8425097", 
+"jmx System Load Average, 0-1": "monitoringMetric$8425098",
+       
+
+"jmx GC Minor Count (total)": "monitoringMetric$8425099",       
+             
+"jmx GC Full Count (total)": "monitoringMetric$8425100",
+                   
+},
+   
+	"portal": {
+       
+"jmx Nonheap Memory Usage, MB": "monitoringMetric$8425028",
+       
+"jmx Process Cpu Load, 0-1": "monitoringMetric$8425029",
+       
+"jmx Heap Memory Usage, MB": "monitoringMetric$8425031",
+       
+"jmx System Cpu Load, 0-1": "monitoringMetric$8425033",
+       
+"jmx Thread Count": "monitoringMetric$8425094",
+       
+"jmx System Load Average, 0-1": "monitoringMetric$8425098",
+       
+"jmx Check Mail Scheduler, 0/1": "monitoringMetric$8425032",
+       
+"jmx Class Loaded Count": "monitoringMetric$8425054",
+       
+"jmx Thread Count Peak": "monitoringMetric$8425040",
+       
+"jmx Tomcat Uptime, ms": "monitoringMetric$8425091",
+       
+"jmx Rest Operations Count (total)": "monitoringMetric$8425035",
+       
+"jmx Memory Code Cache Max, MB": "monitoringMetric$8425069",
+       
+"jmx Dispatch Input Traffic (total), bytes": "monitoringMetric$8425070",
+       
+"jmx JMS Queue Advimport Count": "monitoringMetric$8425036",
+       
+"jmx Dispatch Count (total)": "monitoringMetric$8425072",
+       
+"jmx Dispatch Output Traffic (total), bytes": "monitoringMetric$8425073",
+       
+"jmx Dispatch SQL Count (total)": "monitoringMetric$8425074",
+       
+"jmx Memory Code Cache Used, MB": "monitoringMetric$8425075",
+       
+"jmx JMS Queue EventAction Added (total)": "monitoringMetric$8425041",
+       
+"jmx Memory Code Cache Committed, MB": "monitoringMetric$8425076",
+       
+"jmx Memory Metaspace Committed, MB": "monitoringMetric$8425077",
+       
+"jmx JMS Queue DocumentIndexer Added (total)": "monitoringMetric$8425042",
+       
+"jmx Memory Metaspace Max, MB": "monitoringMetric$8425078",
+       
+"jmx JMS Queue EventAction Count": "monitoringMetric$8425043",
+       
+"jmx JMS Queue Advlist.Export Added (total)": "monitoringMetric$8425044",
+       
+"jmx Memory Metaspace Used, MB": "monitoringMetric$8425079",
+       
+"jmx JMS Queue DocumentIndexer Count": "monitoringMetric$8425045",
+       
+"jmx JMS Queue Advimport Added (total)": "monitoringMetric$8425047",
+       
+"jmx JMS Queue Advlist.Export Count": "monitoringMetric$8425048",
+       
+"jmx GC Minor Duration (total), ms": "monitoringMetric$8425083",
+       
+"jmx JMS Queue EventAction.Pushes Count": "monitoringMetric$8425056",
+       
+"jmx GC Full Duration (total), ms": "monitoringMetric$8425085",
+       
+"jmx JMS Queue EventAction.Pushes Added (total)": "monitoringMetric$8425058",
+       
+"jmx JMS Queue EventAction.Notifications Count": "monitoringMetric$8425059",
+       
+"jmx JMS Queue EventAction.Notifications Added (total)": "monitoringMetric$8425060",
+       
+"jmx Tomcat Threads Max": "monitoringMetric$8425090",
+       
+"jmx Tomcat Threads Count": "monitoringMetric$8425093",
+       
+"jmx JMS Queue External.EventAction Count": "monitoringMetric$8425061",
+       
+"jmx Tomcat Threads Busy": "monitoringMetric$8425095",
+       
+"jmx JMS Queue External.EventAction Added (total)": "monitoringMetric$8425062",
+       
+"jmx Tomcat Connections Count": "monitoringMetric$8425096",
+       
+"jmx JMS Queue Reports.Export Count": "monitoringMetric$8425063",
+       
+"jmx Tomcat Connections Max": "monitoringMetric$8425097",
+       
+"jmx JMS Queue Reports.Export Added (total)": "monitoringMetric$8425065",
+       
+"jmx GC Minor Count (total)": "monitoringMetric$8425099",
+       
+"jmx JMS Queue Reports.BuildReport Count": "monitoringMetric$8425066",
+       
+"jmx GC Full Count (total)": "monitoringMetric$8425100",
+       
+"jmx JMS Queue Reports.BuildReport Added (total)": "monitoringMetric$8425067",
+       
+"jmx Heap Memory Max, MB": "monitoringMetric$8425071",
+       
+"jmx Buffer Pool Direct Memory Used, bytes": "monitoringMetric$8425030",
+       
+"jmx Buffer Pool Direct Count": "monitoringMetric$8425034",
+       
+"jmx Open Files Count": "monitoringMetric$8425082",
+       
+"jmx DB Sequence Pool Connections Max": "monitoringMetric$8425084",
+       
+"jmx DB Main Pool Connections Max": "monitoringMetric$8425086",
+       
+"jmx DB Main Pool Connections Count": "monitoringMetric$8425087",
+       
+"jmx DB Sequence Pool Connections Count": "monitoringMetric$8425088",
+       
+"jmx DB Sequence Pool Connections Busy": "monitoringMetric$8425089",
+       
+"jmx DB Main Pool Connections Busy": "monitoringMetric$8425081",     
+"http Status, 0/1 (proxy)": "monitoringMetric$8425037",
+       
+"icmp Is Reachable, 0-1": "monitoringMetric$8425080",
+       
+"icmp Get Time, msec": "monitoringMetric$8425092",
+       
+"http Status, 0/1": "monitoringMetric$8425038",
+       
+"http availability, 0/1": "monitoringMetric$8425039",
+       
+"http availability service mode, 0/1": "monitoringMetric$8425046",
+       
+"http user licenses, 0/1": "monitoringMetric$8425049" 
+},
+   
+	"gran-limited": {
+       
+"jmx Nonheap Memory Usage, MB": "monitoringMetric$8425028",
+       
+"jmx Process Cpu Load, 0-1": "monitoringMetric$8425029",
+       
+"jmx Heap Memory Usage, MB": "monitoringMetric$8425031",
+       
+"jmx System Cpu Load, 0-1": "monitoringMetric$8425033",
+       
+"jmx Thread Count": "monitoringMetric$8425094",
+       
+"jmx System Load Average, 0-1": "monitoringMetric$8425098",
+       
+"jmx Check Mail Scheduler, 0/1": "monitoringMetric$8425032",
+       
+"jmx Class Loaded Count": "monitoringMetric$8425054",
+       
+"jmx Thread Count Peak": "monitoringMetric$8425040",
+       
+"jmx Tomcat Uptime, ms": "monitoringMetric$8425091",
+       
+"jmx Rest Operations Count (total)": "monitoringMetric$8425035",
+       
+"jmx Memory Code Cache Max, MB": "monitoringMetric$8425069",
+       
+"jmx Dispatch Input Traffic (total), bytes": "monitoringMetric$8425070",
+       
+"jmx JMS Queue Advimport Count": "monitoringMetric$8425036",
+       
+"jmx Dispatch Count (total)": "monitoringMetric$8425072",
+       
+"jmx Dispatch Output Traffic (total), bytes": "monitoringMetric$8425073",
+       
+"jmx Dispatch SQL Count (total)": "monitoringMetric$8425074",
+       
+"jmx Memory Code Cache Used, MB": "monitoringMetric$8425075",
+       
+"jmx JMS Queue EventAction Added (total)": "monitoringMetric$8425041",
+       
+"jmx Memory Code Cache Committed, MB": "monitoringMetric$8425076",
+       
+"jmx Memory Metaspace Committed, MB": "monitoringMetric$8425077",
+       
+"jmx JMS Queue DocumentIndexer Added (total)": "monitoringMetric$8425042",
+       
+"jmx Memory Metaspace Max, MB": "monitoringMetric$8425078",
+       
+"jmx JMS Queue EventAction Count": "monitoringMetric$8425043",
+       
+"jmx JMS Queue Advlist.Export Added (total)": "monitoringMetric$8425044",
+       
+"jmx Memory Metaspace Used, MB": "monitoringMetric$8425079",
+       
+"jmx JMS Queue DocumentIndexer Count": "monitoringMetric$8425045",
+       
+"jmx JMS Queue Advimport Added (total)": "monitoringMetric$8425047",
+       
+"jmx JMS Queue Advlist.Export Count": "monitoringMetric$8425048",
+       
+"jmx GC Minor Duration (total), ms": "monitoringMetric$8425083",
+       
+"jmx JMS Queue EventAction.Pushes Count": "monitoringMetric$8425056",
+       
+"jmx GC Full Duration (total), ms": "monitoringMetric$8425085",
+       
+"jmx JMS Queue EventAction.Pushes Added (total)": "monitoringMetric$8425058",
+       
+"jmx JMS Queue EventAction.Notifications Count": "monitoringMetric$8425059",
+       
+"jmx JMS Queue EventAction.Notifications Added (total)": "monitoringMetric$8425060",
+       
+"jmx Tomcat Threads Max": "monitoringMetric$8425090",
+       
+"jmx Tomcat Threads Count": "monitoringMetric$8425093",
+       
+"jmx JMS Queue External.EventAction Count": "monitoringMetric$8425061",
+       
+"jmx Tomcat Threads Busy": "monitoringMetric$8425095",
+       
+"jmx JMS Queue External.EventAction Added (total)": "monitoringMetric$8425062",
+       
+"jmx Tomcat Connections Count": "monitoringMetric$8425096",
+       
+"jmx JMS Queue Reports.Export Count": "monitoringMetric$8425063",
+       
+"jmx Tomcat Connections Max": "monitoringMetric$8425097",
+       
+"jmx JMS Queue Reports.Export Added (total)": "monitoringMetric$8425065",
+       
+"jmx GC Minor Count (total)": "monitoringMetric$8425099",
+       
+"jmx JMS Queue Reports.BuildReport Count": "monitoringMetric$8425066",
+       
+"jmx GC Full Count (total)": "monitoringMetric$8425100",
+       
+"jmx JMS Queue Reports.BuildReport Added (total)": "monitoringMetric$8425067",
+       
+"jmx Heap Memory Max, MB": "monitoringMetric$8425071",
+       
+"jmx Buffer Pool Direct Memory Used, bytes": "monitoringMetric$8425030",
+       
+"jmx Buffer Pool Direct Count": "monitoringMetric$8425034",
+       
+"jmx Open Files Count": "monitoringMetric$8425082",
+       
+"jmx DB Sequence Pool Connections Max": "monitoringMetric$8425084",
+       
+"jmx DB Main Pool Connections Max": "monitoringMetric$8425086",
+       
+"jmx DB Main Pool Connections Count": "monitoringMetric$8425087",
+       
+"jmx DB Sequence Pool Connections Count": "monitoringMetric$8425088",
+       
+"jmx DB Sequence Pool Connections Busy": "monitoringMetric$8425089",
+       
+"jmx DB Main Pool Connections Busy": "monitoringMetric$8425081",
+   
+"http Status, 0/1 (proxy)": "monitoringMetric$8425037",
+       
+"icmp Is Reachable, 0-1": "monitoringMetric$8425080",
+       
+"icmp Get Time, msec": "monitoringMetric$8425092",
+       
+"http Status, 0/1": "monitoringMetric$8425038",
+       
+"http availability, 0/1": "monitoringMetric$8425039",
+       
+"http availability service mode, 0/1": "monitoringMetric$8425046",
+       
+"http user licenses, 0/1": "monitoringMetric$8425049" 
+},
+   
+	"shoko": {
+       
+"jmx Nonheap Memory Usage, MB": "monitoringMetric$8425028",
+       
+"jmx Process Cpu Load, 0-1": "monitoringMetric$8425029",
+       
+"jmx Heap Memory Usage, MB": "monitoringMetric$8425031",
+       
+"jmx System Cpu Load, 0-1": "monitoringMetric$8425033",
+       
+"jmx Thread Count": "monitoringMetric$8425094",
+       
+"jmx System Load Average, 0-1": "monitoringMetric$8425098",
+       
+"jmx Check Mail Scheduler, 0/1": "monitoringMetric$8425032",
+       
+"jmx Class Loaded Count": "monitoringMetric$8425054",
+       
+"jmx Thread Count Peak": "monitoringMetric$8425040",
+       
+"jmx Tomcat Uptime, ms": "monitoringMetric$8425091",
+       
+"jmx Rest Operations Count (total)": "monitoringMetric$8425035",
+       
+"jmx Memory Code Cache Max, MB": "monitoringMetric$8425069",
+       
+"jmx Dispatch Input Traffic (total), bytes": "monitoringMetric$8425070",
+       
+"jmx JMS Queue Advimport Count": "monitoringMetric$8425036",
+       
+"jmx Dispatch Count (total)": "monitoringMetric$8425072",
+       
+"jmx Dispatch Output Traffic (total), bytes": "monitoringMetric$8425073",
+       
+"jmx Dispatch SQL Count (total)": "monitoringMetric$8425074",
+       
+"jmx Memory Code Cache Used, MB": "monitoringMetric$8425075",
+       
+"jmx JMS Queue EventAction Added (total)": "monitoringMetric$8425041",
+       
+"jmx Memory Code Cache Committed, MB": "monitoringMetric$8425076",
+       
+"jmx Memory Metaspace Committed, MB": "monitoringMetric$8425077",
+       
+"jmx JMS Queue DocumentIndexer Added (total)": "monitoringMetric$8425042",
+       
+"jmx Memory Metaspace Max, MB": "monitoringMetric$8425078",
+       
+"jmx JMS Queue EventAction Count": "monitoringMetric$8425043",
+       
+"jmx JMS Queue Advlist.Export Added (total)": "monitoringMetric$8425044",
+       
+"jmx Memory Metaspace Used, MB": "monitoringMetric$8425079",
+       
+"jmx JMS Queue DocumentIndexer Count": "monitoringMetric$8425045",
+       
+"jmx JMS Queue Advimport Added (total)": "monitoringMetric$8425047",
+       
+"jmx JMS Queue Advlist.Export Count": "monitoringMetric$8425048",
+       
+"jmx GC Minor Duration (total), ms": "monitoringMetric$8425083",
+       
+"jmx JMS Queue EventAction.Pushes Count": "monitoringMetric$8425056",
+       
+"jmx GC Full Duration (total), ms": "monitoringMetric$8425085",
+       
+"jmx JMS Queue EventAction.Pushes Added (total)": "monitoringMetric$8425058",
+       
+"jmx JMS Queue EventAction.Notifications Count": "monitoringMetric$8425059",
+       
+"jmx JMS Queue EventAction.Notifications Added (total)": "monitoringMetric$8425060",
+       
+"jmx Tomcat Threads Max": "monitoringMetric$8425090",
+       
+"jmx Tomcat Threads Count": "monitoringMetric$8425093",
+       
+"jmx JMS Queue External.EventAction Count": "monitoringMetric$8425061",
+       
+"jmx Tomcat Threads Busy": "monitoringMetric$8425095",
+       
+"jmx JMS Queue External.EventAction Added (total)": "monitoringMetric$8425062",
+       
+"jmx Tomcat Connections Count": "monitoringMetric$8425096",
+       
+"jmx JMS Queue Reports.Export Count": "monitoringMetric$8425063",
+       
+"jmx Tomcat Connections Max": "monitoringMetric$8425097",
+       
+"jmx JMS Queue Reports.Export Added (total)": "monitoringMetric$8425065",
+       
+"jmx GC Minor Count (total)": "monitoringMetric$8425099",
+       
+"jmx JMS Queue Reports.BuildReport Count": "monitoringMetric$8425066",
+       
+"jmx GC Full Count (total)": "monitoringMetric$8425100",
+       
+"jmx JMS Queue Reports.BuildReport Added (total)": "monitoringMetric$8425067",
+       
+"jmx Heap Memory Max, MB": "monitoringMetric$8425071",
+       
+"jmx Buffer Pool Direct Memory Used, bytes": "monitoringMetric$8425030",
+       
+"jmx Buffer Pool Direct Count": "monitoringMetric$8425034",
+       
+"jmx Open Files Count": "monitoringMetric$8425082",
+       
+"jmx DB Sequence Pool Connections Max": "monitoringMetric$8425084",
+       
+"jmx DB Main Pool Connections Max": "monitoringMetric$8425086",
+       
+"jmx DB Main Pool Connections Count": "monitoringMetric$8425087",
+       
+"jmx DB Sequence Pool Connections Count": "monitoringMetric$8425088",
+       
+"jmx DB Sequence Pool Connections Busy": "monitoringMetric$8425089",
+       
+"jmx DB Main Pool Connections Busy": "monitoringMetric$8425081",     
+"http Status, 0/1 (proxy)": "monitoringMetric$8425037",
+       
+"icmp Is Reachable, 0-1": "monitoringMetric$8425080",
+       
+"icmp Get Time, msec": "monitoringMetric$8425092",
+       
+"http Status, 0/1": "monitoringMetric$8425038",
+       
+"http availability, 0/1": "monitoringMetric$8425039",
+       
+"http availability service mode, 0/1": "monitoringMetric$8425046",
+       
+"http user licenses, 0/1": "monitoringMetric$8425049"
+},
+   
+	"kontur": {
+       
+"jmx Nonheap Memory Usage, MB": "monitoringMetric$8425028",
+       
+"jmx Process Cpu Load, 0-1": "monitoringMetric$8425029",
+       
+"jmx Heap Memory Usage, MB": "monitoringMetric$8425031",
+       
+"jmx System Cpu Load, 0-1": "monitoringMetric$8425033",
+       
+"jmx Thread Count": "monitoringMetric$8425094",
+       
+"jmx System Load Average, 0-1": "monitoringMetric$8425098",
+       
+"jmx Check Mail Scheduler, 0/1": "monitoringMetric$8425032",
+       
+"jmx Class Loaded Count": "monitoringMetric$8425054",
+       
+"jmx Thread Count Peak": "monitoringMetric$8425040",
+       
+"jmx Tomcat Uptime, ms": "monitoringMetric$8425091",
+       
+"jmx Rest Operations Count (total)": "monitoringMetric$8425035",
+       
+"jmx Memory Code Cache Max, MB": "monitoringMetric$8425069",
+       
+"jmx Dispatch Input Traffic (total), bytes": "monitoringMetric$8425070",
+       
+"jmx JMS Queue Advimport Count": "monitoringMetric$8425036",
+       
+"jmx Dispatch Count (total)": "monitoringMetric$8425072",
+       
+"jmx Dispatch Output Traffic (total), bytes": "monitoringMetric$8425073",
+       
+"jmx Dispatch SQL Count (total)": "monitoringMetric$8425074",
+       
+"jmx Memory Code Cache Used, MB": "monitoringMetric$8425075",
+       
+"jmx JMS Queue EventAction Added (total)": "monitoringMetric$8425041",
+       
+"jmx Memory Code Cache Committed, MB": "monitoringMetric$8425076",
+       
+"jmx Memory Metaspace Committed, MB": "monitoringMetric$8425077",
+       
+"jmx JMS Queue DocumentIndexer Added (total)": "monitoringMetric$8425042",
+       
+"jmx Memory Metaspace Max, MB": "monitoringMetric$8425078",
+       
+"jmx JMS Queue EventAction Count": "monitoringMetric$8425043",
+       
+"jmx JMS Queue Advlist.Export Added (total)": "monitoringMetric$8425044",
+       
+"jmx Memory Metaspace Used, MB": "monitoringMetric$8425079",
+       
+"jmx JMS Queue DocumentIndexer Count": "monitoringMetric$8425045",
+       
+"jmx JMS Queue Advimport Added (total)": "monitoringMetric$8425047",
+       
+"jmx JMS Queue Advlist.Export Count": "monitoringMetric$8425048",
+       
+"jmx GC Minor Duration (total), ms": "monitoringMetric$8425083",
+       
+"jmx JMS Queue EventAction.Pushes Count": "monitoringMetric$8425056",
+       
+"jmx GC Full Duration (total), ms": "monitoringMetric$8425085",
+       
+"jmx JMS Queue EventAction.Pushes Added (total)": "monitoringMetric$8425058",
+       
+"jmx JMS Queue EventAction.Notifications Count": "monitoringMetric$8425059",
+       
+"jmx JMS Queue EventAction.Notifications Added (total)": "monitoringMetric$8425060",
+       
+"jmx Tomcat Threads Max": "monitoringMetric$8425090",
+       
+"jmx Tomcat Threads Count": "monitoringMetric$8425093",
+       
+"jmx JMS Queue External.EventAction Count": "monitoringMetric$8425061",
+       
+"jmx Tomcat Threads Busy": "monitoringMetric$8425095",
+       
+"jmx JMS Queue External.EventAction Added (total)": "monitoringMetric$8425062",
+       
+"jmx Tomcat Connections Count": "monitoringMetric$8425096",
+       
+"jmx JMS Queue Reports.Export Count": "monitoringMetric$8425063",
+       
+"jmx Tomcat Connections Max": "monitoringMetric$8425097",
+       
+"jmx JMS Queue Reports.Export Added (total)": "monitoringMetric$8425065",
+       
+"jmx GC Minor Count (total)": "monitoringMetric$8425099",
+       
+"jmx JMS Queue Reports.BuildReport Count": "monitoringMetric$8425066",
+       
+"jmx GC Full Count (total)": "monitoringMetric$8425100",
+       
+"jmx JMS Queue Reports.BuildReport Added (total)": "monitoringMetric$8425067",
+       
+"jmx Heap Memory Max, MB": "monitoringMetric$8425071",
+       
+"jmx Buffer Pool Direct Memory Used, bytes": "monitoringMetric$8425030",
+       
+"jmx Buffer Pool Direct Count": "monitoringMetric$8425034",
+       
+"jmx Open Files Count": "monitoringMetric$8425082",
+       
+"jmx DB Sequence Pool Connections Max": "monitoringMetric$8425084",
+       
+"jmx DB Main Pool Connections Max": "monitoringMetric$8425086",
+       
+"jmx DB Main Pool Connections Count": "monitoringMetric$8425087",
+       
+"jmx DB Sequence Pool Connections Count": "monitoringMetric$8425088",
+       
+"jmx DB Sequence Pool Connections Busy": "monitoringMetric$8425089",
+       
+"jmx DB Main Pool Connections Busy": "monitoringMetric$8425081",
+  
+"http Status, 0/1 (proxy)": "monitoringMetric$8425037",
+       
+"icmp Is Reachable, 0-1": "monitoringMetric$8425080",
+       
+"icmp Get Time, msec": "monitoringMetric$8425092",
+       
+"http Status, 0/1": "monitoringMetric$8425038",
+       
+"http availability, 0/1": "monitoringMetric$8425039",
+       
+"http availability service mode, 0/1": "monitoringMetric$8425046",
+       
+"http user licenses, 0/1": "monitoringMetric$8425049"
+},
+   
+	"naumen-it": {
+       
+"jmx Nonheap Memory Usage, MB": "monitoringMetric$8425028",
+       
+"jmx Process Cpu Load, 0-1": "monitoringMetric$8425029",
+       
+"jmx Heap Memory Usage, MB": "monitoringMetric$8425031",
+       
+"jmx System Cpu Load, 0-1": "monitoringMetric$8425033",
+       
+"jmx Thread Count": "monitoringMetric$8425094",
+       
+"jmx System Load Average, 0-1": "monitoringMetric$8425098",
+       
+"jmx Check Mail Scheduler, 0/1": "monitoringMetric$8425032",
+       
+"jmx Class Loaded Count": "monitoringMetric$8425054",
+       
+"jmx Thread Count Peak": "monitoringMetric$8425040",
+       
+"jmx Tomcat Uptime, ms": "monitoringMetric$8425091",
+       
+"jmx Rest Operations Count (total)": "monitoringMetric$8425035",
+       
+"jmx Memory Code Cache Max, MB": "monitoringMetric$8425069",
+       
+"jmx Dispatch Input Traffic (total), bytes": "monitoringMetric$8425070",
+       
+"jmx JMS Queue Advimport Count": "monitoringMetric$8425036",
+       
+"jmx Dispatch Count (total)": "monitoringMetric$8425072",
+       
+"jmx Dispatch Output Traffic (total), bytes": "monitoringMetric$8425073",
+       
+"jmx Dispatch SQL Count (total)": "monitoringMetric$8425074",
+       
+"jmx Memory Code Cache Used, MB": "monitoringMetric$8425075",
+       
+"jmx JMS Queue EventAction Added (total)": "monitoringMetric$8425041",
+       
+"jmx Memory Code Cache Committed, MB": "monitoringMetric$8425076",
+       
+"jmx Memory Metaspace Committed, MB": "monitoringMetric$8425077",
+       
+"jmx JMS Queue DocumentIndexer Added (total)": "monitoringMetric$8425042",
+       
+"jmx Memory Metaspace Max, MB": "monitoringMetric$8425078",
+       
+"jmx JMS Queue EventAction Count": "monitoringMetric$8425043",
+       
+"jmx JMS Queue Advlist.Export Added (total)": "monitoringMetric$8425044",
+       
+"jmx Memory Metaspace Used, MB": "monitoringMetric$8425079",
+       
+"jmx JMS Queue DocumentIndexer Count": "monitoringMetric$8425045",
+       
+"jmx JMS Queue Advimport Added (total)": "monitoringMetric$8425047",
+       
+"jmx JMS Queue Advlist.Export Count": "monitoringMetric$8425048",
+       
+"jmx GC Minor Duration (total), ms": "monitoringMetric$8425083",
+       
+"jmx JMS Queue EventAction.Pushes Count": "monitoringMetric$8425056",
+       
+"jmx GC Full Duration (total), ms": "monitoringMetric$8425085",
+       
+"jmx JMS Queue EventAction.Pushes Added (total)": "monitoringMetric$8425058",
+       
+"jmx JMS Queue EventAction.Notifications Count": "monitoringMetric$8425059",
+       
+"jmx JMS Queue EventAction.Notifications Added (total)": "monitoringMetric$8425060",
+       
+"jmx Tomcat Threads Max": "monitoringMetric$8425090",
+       
+"jmx Tomcat Threads Count": "monitoringMetric$8425093",
+       
+"jmx JMS Queue External.EventAction Count": "monitoringMetric$8425061",
+       
+"jmx Tomcat Threads Busy": "monitoringMetric$8425095",
+       
+"jmx JMS Queue External.EventAction Added (total)": "monitoringMetric$8425062",
+       
+"jmx Tomcat Connections Count": "monitoringMetric$8425096",
+       
+"jmx JMS Queue Reports.Export Count": "monitoringMetric$8425063",
+       
+"jmx Tomcat Connections Max": "monitoringMetric$8425097",
+       
+"jmx JMS Queue Reports.Export Added (total)": "monitoringMetric$8425065",
+       
+"jmx GC Minor Count (total)": "monitoringMetric$8425099",
+       
+"jmx JMS Queue Reports.BuildReport Count": "monitoringMetric$8425066",
+       
+"jmx GC Full Count (total)": "monitoringMetric$8425100",
+       
+"jmx JMS Queue Reports.BuildReport Added (total)": "monitoringMetric$8425067",
+       
+"jmx Heap Memory Max, MB": "monitoringMetric$8425071",
+       
+"jmx Buffer Pool Direct Memory Used, bytes": "monitoringMetric$8425030",
+       
+"jmx Buffer Pool Direct Count": "monitoringMetric$8425034",
+       
+"jmx Open Files Count": "monitoringMetric$8425082",
+       
+"jmx DB Sequence Pool Connections Max": "monitoringMetric$8425084",
+       
+"jmx DB Main Pool Connections Max": "monitoringMetric$8425086",
+       
+"jmx DB Main Pool Connections Count": "monitoringMetric$8425087",
+       
+"jmx DB Sequence Pool Connections Count": "monitoringMetric$8425088",
+       
+"jmx DB Sequence Pool Connections Busy": "monitoringMetric$8425089",
+       
+"jmx DB Main Pool Connections Busy": "monitoringMetric$8425081",     
+"http Status, 0/1 (proxy)": "monitoringMetric$8425037",
+       
+"icmp Is Reachable, 0-1": "monitoringMetric$8425080",
+       
+"icmp Get Time, msec": "monitoringMetric$8425092",
+       
+"http Status, 0/1": "monitoringMetric$8425038",
+       
+"http availability, 0/1": "monitoringMetric$8425039",
+       
+"http availability service mode, 0/1": "monitoringMetric$8425046",
+       
+"http user licenses, 0/1": "monitoringMetric$8425049" 
+},
+   
+	"tanuki": {
+       
+"jmx Nonheap Memory Usage, MB": "monitoringMetric$8425028",
+       
+"jmx Process Cpu Load, 0-1": "monitoringMetric$8425029",
+       
+"jmx Heap Memory Usage, MB": "monitoringMetric$8425031",
+       
+"jmx System Cpu Load, 0-1": "monitoringMetric$8425033",
+       
+"jmx Thread Count": "monitoringMetric$8425094",
+       
+"jmx System Load Average, 0-1": "monitoringMetric$8425098",
+       
+"jmx Check Mail Scheduler, 0/1": "monitoringMetric$8425032",
+       
+"jmx Class Loaded Count": "monitoringMetric$8425054",
+       
+"jmx Thread Count Peak": "monitoringMetric$8425040",
+       
+"jmx Tomcat Uptime, ms": "monitoringMetric$8425091",
+       
+"jmx Rest Operations Count (total)": "monitoringMetric$8425035",
+       
+"jmx Memory Code Cache Max, MB": "monitoringMetric$8425069",
+       
+"jmx Dispatch Input Traffic (total), bytes": "monitoringMetric$8425070",
+       
+"jmx JMS Queue Advimport Count": "monitoringMetric$8425036",
+       
+"jmx Dispatch Count (total)": "monitoringMetric$8425072",
+       
+"jmx Dispatch Output Traffic (total), bytes": "monitoringMetric$8425073",
+       
+"jmx Dispatch SQL Count (total)": "monitoringMetric$8425074",
+       
+"jmx Memory Code Cache Used, MB": "monitoringMetric$8425075",
+       
+"jmx JMS Queue EventAction Added (total)": "monitoringMetric$8425041",
+       
+"jmx Memory Code Cache Committed, MB": "monitoringMetric$8425076",
+       
+"jmx Memory Metaspace Committed, MB": "monitoringMetric$8425077",
+       
+"jmx JMS Queue DocumentIndexer Added (total)": "monitoringMetric$8425042",
+       
+"jmx Memory Metaspace Max, MB": "monitoringMetric$8425078",
+       
+"jmx JMS Queue EventAction Count": "monitoringMetric$8425043",
+       
+"jmx JMS Queue Advlist.Export Added (total)": "monitoringMetric$8425044",
+       
+"jmx Memory Metaspace Used, MB": "monitoringMetric$8425079",
+       
+"jmx JMS Queue DocumentIndexer Count": "monitoringMetric$8425045",
+       
+"jmx JMS Queue Advimport Added (total)": "monitoringMetric$8425047",
+       
+"jmx JMS Queue Advlist.Export Count": "monitoringMetric$8425048",
+       
+"jmx GC Minor Duration (total), ms": "monitoringMetric$8425083",
+       
+"jmx JMS Queue EventAction.Pushes Count": "monitoringMetric$8425056",
+       
+"jmx GC Full Duration (total), ms": "monitoringMetric$8425085",
+       
+"jmx JMS Queue EventAction.Pushes Added (total)": "monitoringMetric$8425058",
+       
+"jmx JMS Queue EventAction.Notifications Count": "monitoringMetric$8425059",
+       
+"jmx JMS Queue EventAction.Notifications Added (total)": "monitoringMetric$8425060",
+       
+"jmx Tomcat Threads Max": "monitoringMetric$8425090",
+       
+"jmx Tomcat Threads Count": "monitoringMetric$8425093",
+       
+"jmx JMS Queue External.EventAction Count": "monitoringMetric$8425061",
+       
+"jmx Tomcat Threads Busy": "monitoringMetric$8425095",
+       
+"jmx JMS Queue External.EventAction Added (total)": "monitoringMetric$8425062",
+       
+"jmx Tomcat Connections Count": "monitoringMetric$8425096",
+       
+"jmx JMS Queue Reports.Export Count": "monitoringMetric$8425063",
+       
+"jmx Tomcat Connections Max": "monitoringMetric$8425097",
+       
+"jmx JMS Queue Reports.Export Added (total)": "monitoringMetric$8425065",
+       
+"jmx GC Minor Count (total)": "monitoringMetric$8425099",
+       
+"jmx JMS Queue Reports.BuildReport Count": "monitoringMetric$8425066",
+       
+"jmx GC Full Count (total)": "monitoringMetric$8425100",
+       
+"jmx JMS Queue Reports.BuildReport Added (total)": "monitoringMetric$8425067",
+       
+"jmx Heap Memory Max, MB": "monitoringMetric$8425071",
+       
+"jmx Buffer Pool Direct Memory Used, bytes": "monitoringMetric$8425030",
+       
+"jmx Buffer Pool Direct Count": "monitoringMetric$8425034",
+       
+"jmx Open Files Count": "monitoringMetric$8425082",
+       
+"jmx DB Sequence Pool Connections Max": "monitoringMetric$8425084",
+       
+"jmx DB Main Pool Connections Max": "monitoringMetric$8425086",
+       
+"jmx DB Main Pool Connections Count": "monitoringMetric$8425087",
+       
+"jmx DB Sequence Pool Connections Count": "monitoringMetric$8425088",
+       
+"jmx DB Sequence Pool Connections Busy": "monitoringMetric$8425089",
+       
+"jmx DB Main Pool Connections Busy": "monitoringMetric$8425081",     
+"http Status, 0/1 (proxy)": "monitoringMetric$8425037",
+       
+"icmp Is Reachable, 0-1": "monitoringMetric$8425080",
+       
+"icmp Get Time, msec": "monitoringMetric$8425092",
+       
+"http Status, 0/1": "monitoringMetric$8425038",
+       
+"http availability, 0/1": "monitoringMetric$8425039",
+       
+"http availability service mode, 0/1": "monitoringMetric$8425046",
+       
+"http user licenses, 0/1": "monitoringMetric$8425049"
+},
+   
+	"vektor-it": {
+       
+"jmx Nonheap Memory Usage, MB": "monitoringMetric$8425028",
+       
+"jmx Process Cpu Load, 0-1": "monitoringMetric$8425029",
+       
+"jmx Heap Memory Usage, MB": "monitoringMetric$8425031",
+       
+"jmx System Cpu Load, 0-1": "monitoringMetric$8425033",
+       
+"jmx Thread Count": "monitoringMetric$8425094",
+       
+"jmx System Load Average, 0-1": "monitoringMetric$8425098",
+       
+"jmx Check Mail Scheduler, 0/1": "monitoringMetric$8425032",
+       
+"jmx Class Loaded Count": "monitoringMetric$8425054",
+       
+"jmx Thread Count Peak": "monitoringMetric$8425040",
+       
+"jmx Tomcat Uptime, ms": "monitoringMetric$8425091",
+       
+"jmx Rest Operations Count (total)": "monitoringMetric$8425035",
+       
+"jmx Memory Code Cache Max, MB": "monitoringMetric$8425069",
+       
+"jmx Dispatch Input Traffic (total), bytes": "monitoringMetric$8425070",
+       
+"jmx JMS Queue Advimport Count": "monitoringMetric$8425036",
+       
+"jmx Dispatch Count (total)": "monitoringMetric$8425072",
+       
+"jmx Dispatch Output Traffic (total), bytes": "monitoringMetric$8425073",
+       
+"jmx Dispatch SQL Count (total)": "monitoringMetric$8425074",
+       
+"jmx Memory Code Cache Used, MB": "monitoringMetric$8425075",
+       
+"jmx JMS Queue EventAction Added (total)": "monitoringMetric$8425041",
+       
+"jmx Memory Code Cache Committed, MB": "monitoringMetric$8425076",
+       
+"jmx Memory Metaspace Committed, MB": "monitoringMetric$8425077",
+       
+"jmx JMS Queue DocumentIndexer Added (total)": "monitoringMetric$8425042",
+       
+"jmx Memory Metaspace Max, MB": "monitoringMetric$8425078",
+       
+"jmx JMS Queue EventAction Count": "monitoringMetric$8425043",
+       
+"jmx JMS Queue Advlist.Export Added (total)": "monitoringMetric$8425044",
+       
+"jmx Memory Metaspace Used, MB": "monitoringMetric$8425079",
+       
+"jmx JMS Queue DocumentIndexer Count": "monitoringMetric$8425045",
+       
+"jmx JMS Queue Advimport Added (total)": "monitoringMetric$8425047",
+       
+"jmx JMS Queue Advlist.Export Count": "monitoringMetric$8425048",
+       
+"jmx GC Minor Duration (total), ms": "monitoringMetric$8425083",
+       
+"jmx JMS Queue EventAction.Pushes Count": "monitoringMetric$8425056",
+       
+"jmx GC Full Duration (total), ms": "monitoringMetric$8425085",
+       
+"jmx JMS Queue EventAction.Pushes Added (total)": "monitoringMetric$8425058",
+       
+"jmx JMS Queue EventAction.Notifications Count": "monitoringMetric$8425059",
+       
+"jmx JMS Queue EventAction.Notifications Added (total)": "monitoringMetric$8425060",
+       
+"jmx Tomcat Threads Max": "monitoringMetric$8425090",
+       
+"jmx Tomcat Threads Count": "monitoringMetric$8425093",
+       
+"jmx JMS Queue External.EventAction Count": "monitoringMetric$8425061",
+       
+"jmx Tomcat Threads Busy": "monitoringMetric$8425095",
+       
+"jmx JMS Queue External.EventAction Added (total)": "monitoringMetric$8425062",
+       
+"jmx Tomcat Connections Count": "monitoringMetric$8425096",
+       
+"jmx JMS Queue Reports.Export Count": "monitoringMetric$8425063",
+       
+"jmx Tomcat Connections Max": "monitoringMetric$8425097",
+       
+"jmx JMS Queue Reports.Export Added (total)": "monitoringMetric$8425065",
+       
+"jmx GC Minor Count (total)": "monitoringMetric$8425099",
+       
+"jmx JMS Queue Reports.BuildReport Count": "monitoringMetric$8425066",
+       
+"jmx GC Full Count (total)": "monitoringMetric$8425100",
+       
+"jmx JMS Queue Reports.BuildReport Added (total)": "monitoringMetric$8425067",
+       
+"jmx Heap Memory Max, MB": "monitoringMetric$8425071",
+       
+"jmx Buffer Pool Direct Memory Used, bytes": "monitoringMetric$8425030",
+       
+"jmx Buffer Pool Direct Count": "monitoringMetric$8425034",
+       
+"jmx Open Files Count": "monitoringMetric$8425082",
+       
+"jmx DB Sequence Pool Connections Max": "monitoringMetric$8425084",
+       
+"jmx DB Main Pool Connections Max": "monitoringMetric$8425086",
+       
+"jmx DB Main Pool Connections Count": "monitoringMetric$8425087",
+       
+"jmx DB Sequence Pool Connections Count": "monitoringMetric$8425088",
+       
+"jmx DB Sequence Pool Connections Busy": "monitoringMetric$8425089",
+       
+"jmx DB Main Pool Connections Busy": "monitoringMetric$8425081",
+      
+"http Status, 0/1 (proxy)": "monitoringMetric$8425037",
+       
+"icmp Is Reachable, 0-1": "monitoringMetric$8425080",
+       
+"icmp Get Time, msec": "monitoringMetric$8425092",
+       
+"http Status, 0/1": "monitoringMetric$8425038",
+       
+"http availability, 0/1": "monitoringMetric$8425039",
+       
+"http availability service mode, 0/1": "monitoringMetric$8425046",
+       
+"http user licenses, 0/1": "monitoringMetric$8425049"  
+},
+   
+	"skorozvon": {
+       
+"jmx Nonheap Memory Usage, MB": "monitoringMetric$8425028",
+       
+"jmx Process Cpu Load, 0-1": "monitoringMetric$8425029",
+       
+"jmx Heap Memory Usage, MB": "monitoringMetric$8425031",
+       
+"jmx System Cpu Load, 0-1": "monitoringMetric$8425033",
+       
+"jmx Thread Count": "monitoringMetric$8425094",
+       
+"jmx System Load Average, 0-1": "monitoringMetric$8425098",
+       
+"jmx Check Mail Scheduler, 0/1": "monitoringMetric$8425032",
+       
+"jmx Class Loaded Count": "monitoringMetric$8425054",
+       
+"jmx Thread Count Peak": "monitoringMetric$8425040",
+       
+"jmx Tomcat Uptime, ms": "monitoringMetric$8425091",
+       
+"jmx Rest Operations Count (total)": "monitoringMetric$8425035",
+       
+"jmx Memory Code Cache Max, MB": "monitoringMetric$8425069",
+       
+"jmx Dispatch Input Traffic (total), bytes": "monitoringMetric$8425070",
+       
+"jmx JMS Queue Advimport Count": "monitoringMetric$8425036",
+       
+"jmx Dispatch Count (total)": "monitoringMetric$8425072",
+       
+"jmx Dispatch Output Traffic (total), bytes": "monitoringMetric$8425073",
+       
+"jmx Dispatch SQL Count (total)": "monitoringMetric$8425074",
+       
+"jmx Memory Code Cache Used, MB": "monitoringMetric$8425075",
+       
+"jmx JMS Queue EventAction Added (total)": "monitoringMetric$8425041",
+       
+"jmx Memory Code Cache Committed, MB": "monitoringMetric$8425076",
+       
+"jmx Memory Metaspace Committed, MB": "monitoringMetric$8425077",
+       
+"jmx JMS Queue DocumentIndexer Added (total)": "monitoringMetric$8425042",
+       
+"jmx Memory Metaspace Max, MB": "monitoringMetric$8425078",
+       
+"jmx JMS Queue EventAction Count": "monitoringMetric$8425043",
+       
+"jmx JMS Queue Advlist.Export Added (total)": "monitoringMetric$8425044",
+       
+"jmx Memory Metaspace Used, MB": "monitoringMetric$8425079",
+       
+"jmx JMS Queue DocumentIndexer Count": "monitoringMetric$8425045",
+       
+"jmx JMS Queue Advimport Added (total)": "monitoringMetric$8425047",
+       
+"jmx JMS Queue Advlist.Export Count": "monitoringMetric$8425048",
+       
+"jmx GC Minor Duration (total), ms": "monitoringMetric$8425083",
+       
+"jmx JMS Queue EventAction.Pushes Count": "monitoringMetric$8425056",
+       
+"jmx GC Full Duration (total), ms": "monitoringMetric$8425085",
+       
+"jmx JMS Queue EventAction.Pushes Added (total)": "monitoringMetric$8425058",
+       
+"jmx JMS Queue EventAction.Notifications Count": "monitoringMetric$8425059",
+       
+"jmx JMS Queue EventAction.Notifications Added (total)": "monitoringMetric$8425060",
+       
+"jmx Tomcat Threads Max": "monitoringMetric$8425090",
+       
+"jmx Tomcat Threads Count": "monitoringMetric$8425093",
+       
+"jmx JMS Queue External.EventAction Count": "monitoringMetric$8425061",
+       
+"jmx Tomcat Threads Busy": "monitoringMetric$8425095",
+       
+"jmx JMS Queue External.EventAction Added (total)": "monitoringMetric$8425062",
+       
+"jmx Tomcat Connections Count": "monitoringMetric$8425096",
+       
+"jmx JMS Queue Reports.Export Count": "monitoringMetric$8425063",
+       
+"jmx Tomcat Connections Max": "monitoringMetric$8425097",
+       
+"jmx JMS Queue Reports.Export Added (total)": "monitoringMetric$8425065",
+       
+"jmx GC Minor Count (total)": "monitoringMetric$8425099",
+       
+"jmx JMS Queue Reports.BuildReport Count": "monitoringMetric$8425066",
+       
+"jmx GC Full Count (total)": "monitoringMetric$8425100",
+       
+"jmx JMS Queue Reports.BuildReport Added (total)": "monitoringMetric$8425067",
+       
+"jmx Heap Memory Max, MB": "monitoringMetric$8425071",
+       
+"jmx Buffer Pool Direct Memory Used, bytes": "monitoringMetric$8425030",
+       
+"jmx Buffer Pool Direct Count": "monitoringMetric$8425034",
+       
+"jmx Open Files Count": "monitoringMetric$8425082",
+       
+"jmx DB Sequence Pool Connections Max": "monitoringMetric$8425084",
+       
+"jmx DB Main Pool Connections Max": "monitoringMetric$8425086",
+       
+"jmx DB Main Pool Connections Count": "monitoringMetric$8425087",
+       
+"jmx DB Sequence Pool Connections Count": "monitoringMetric$8425088",
+       
+"jmx DB Sequence Pool Connections Busy": "monitoringMetric$8425089",
+       
+"jmx DB Main Pool Connections Busy": "monitoringMetric$8425081",
+   
+"http Status, 0/1 (proxy)": "monitoringMetric$8425037",
+       
+"icmp Is Reachable, 0-1": "monitoringMetric$8425080",
+       
+"icmp Get Time, msec": "monitoringMetric$8425092",
+       
+"http Status, 0/1": "monitoringMetric$8425038",
+       
+"http availability, 0/1": "monitoringMetric$8425039",
+       
+"http availability service mode, 0/1": "monitoringMetric$8425046",
+       
+"http user licenses, 0/1": "monitoringMetric$8425049" 
+},
+   
+	"fors": {
+       
+"jmx Nonheap Memory Usage, MB": "monitoringMetric$8425028",
+       
+"jmx Process Cpu Load, 0-1": "monitoringMetric$8425029",
+       
+"jmx Heap Memory Usage, MB": "monitoringMetric$8425031",
+       
+"jmx System Cpu Load, 0-1": "monitoringMetric$8425033",
+       
+"jmx Thread Count": "monitoringMetric$8425094",
+       
+"jmx System Load Average, 0-1": "monitoringMetric$8425098",
+       
+"jmx Check Mail Scheduler, 0/1": "monitoringMetric$8425032",
+       
+"jmx Class Loaded Count": "monitoringMetric$8425054",
+       
+"jmx Thread Count Peak": "monitoringMetric$8425040",
+       
+"jmx Tomcat Uptime, ms": "monitoringMetric$8425091",
+       
+"jmx Rest Operations Count (total)": "monitoringMetric$8425035",
+       
+"jmx Memory Code Cache Max, MB": "monitoringMetric$8425069",
+       
+"jmx Dispatch Input Traffic (total), bytes": "monitoringMetric$8425070",
+       
+"jmx JMS Queue Advimport Count": "monitoringMetric$8425036",
+       
+"jmx Dispatch Count (total)": "monitoringMetric$8425072",
+       
+"jmx Dispatch Output Traffic (total), bytes": "monitoringMetric$8425073",
+       
+"jmx Dispatch SQL Count (total)": "monitoringMetric$8425074",
+       
+"jmx Memory Code Cache Used, MB": "monitoringMetric$8425075",
+       
+"jmx JMS Queue EventAction Added (total)": "monitoringMetric$8425041",
+       
+"jmx Memory Code Cache Committed, MB": "monitoringMetric$8425076",
+       
+"jmx Memory Metaspace Committed, MB": "monitoringMetric$8425077",
+       
+"jmx JMS Queue DocumentIndexer Added (total)": "monitoringMetric$8425042",
+       
+"jmx Memory Metaspace Max, MB": "monitoringMetric$8425078",
+       
+"jmx JMS Queue EventAction Count": "monitoringMetric$8425043",
+       
+"jmx JMS Queue Advlist.Export Added (total)": "monitoringMetric$8425044",
+       
+"jmx Memory Metaspace Used, MB": "monitoringMetric$8425079",
+       
+"jmx JMS Queue DocumentIndexer Count": "monitoringMetric$8425045",
+       
+"jmx JMS Queue Advimport Added (total)": "monitoringMetric$8425047",
+       
+"jmx JMS Queue Advlist.Export Count": "monitoringMetric$8425048",
+       
+"jmx GC Minor Duration (total), ms": "monitoringMetric$8425083",
+       
+"jmx JMS Queue EventAction.Pushes Count": "monitoringMetric$8425056",
+       
+"jmx GC Full Duration (total), ms": "monitoringMetric$8425085",
+       
+"jmx JMS Queue EventAction.Pushes Added (total)": "monitoringMetric$8425058",
+       
+"jmx JMS Queue EventAction.Notifications Count": "monitoringMetric$8425059",
+       
+"jmx JMS Queue EventAction.Notifications Added (total)": "monitoringMetric$8425060",
+       
+"jmx Tomcat Threads Max": "monitoringMetric$8425090",
+       
+"jmx Tomcat Threads Count": "monitoringMetric$8425093",
+       
+"jmx JMS Queue External.EventAction Count": "monitoringMetric$8425061",
+       
+"jmx Tomcat Threads Busy": "monitoringMetric$8425095",
+       
+"jmx JMS Queue External.EventAction Added (total)": "monitoringMetric$8425062",
+       
+"jmx Tomcat Connections Count": "monitoringMetric$8425096",
+       
+"jmx JMS Queue Reports.Export Count": "monitoringMetric$8425063",
+       
+"jmx Tomcat Connections Max": "monitoringMetric$8425097",
+       
+"jmx JMS Queue Reports.Export Added (total)": "monitoringMetric$8425065",
+       
+"jmx GC Minor Count (total)": "monitoringMetric$8425099",
+       
+"jmx JMS Queue Reports.BuildReport Count": "monitoringMetric$8425066",
+       
+"jmx GC Full Count (total)": "monitoringMetric$8425100",
+       
+"jmx JMS Queue Reports.BuildReport Added (total)": "monitoringMetric$8425067",
+       
+"jmx Heap Memory Max, MB": "monitoringMetric$8425071",
+       
+"jmx Buffer Pool Direct Memory Used, bytes": "monitoringMetric$8425030",
+       
+"jmx Buffer Pool Direct Count": "monitoringMetric$8425034",
+       
+"jmx Open Files Count": "monitoringMetric$8425082",
+       
+"jmx DB Sequence Pool Connections Max": "monitoringMetric$8425084",
+       
+"jmx DB Main Pool Connections Max": "monitoringMetric$8425086",
+       
+"jmx DB Main Pool Connections Count": "monitoringMetric$8425087",
+       
+"jmx DB Sequence Pool Connections Count": "monitoringMetric$8425088",
+       
+"jmx DB Sequence Pool Connections Busy": "monitoringMetric$8425089",
+       
+"jmx DB Main Pool Connections Busy": "monitoringMetric$8425081",
+   
+"http Status, 0/1 (proxy)": "monitoringMetric$8425037",
+       
+"icmp Is Reachable, 0-1": "monitoringMetric$8425080",
+       
+"icmp Get Time, msec": "monitoringMetric$8425092",
+       
+"http Status, 0/1": "monitoringMetric$8425038",
+       
+"http availability, 0/1": "monitoringMetric$8425039",
+       
+"http availability service mode, 0/1": "monitoringMetric$8425046",
+       
+"http user licenses, 0/1": "monitoringMetric$8425049"  
+},
+   
+	"kari": {
+       
+"jmx Nonheap Memory Usage, MB": "monitoringMetric$8425028",
+       
+"jmx Process Cpu Load, 0-1": "monitoringMetric$8425029",
+       
+"jmx Heap Memory Usage, MB": "monitoringMetric$8425031",
+       
+"jmx System Cpu Load, 0-1": "monitoringMetric$8425033",
+       
+"jmx Thread Count": "monitoringMetric$8425094",
+       
+"jmx System Load Average, 0-1": "monitoringMetric$8425098",
+       
+"jmx Check Mail Scheduler, 0/1": "monitoringMetric$8425032",
+       
+"jmx Class Loaded Count": "monitoringMetric$8425054",
+       
+"jmx Thread Count Peak": "monitoringMetric$8425040",
+       
+"jmx Tomcat Uptime, ms": "monitoringMetric$8425091",
+       
+"jmx Rest Operations Count (total)": "monitoringMetric$8425035",
+       
+"jmx Memory Code Cache Max, MB": "monitoringMetric$8425069",
+       
+"jmx Dispatch Input Traffic (total), bytes": "monitoringMetric$8425070",
+       
+"jmx JMS Queue Advimport Count": "monitoringMetric$8425036",
+       
+"jmx Dispatch Count (total)": "monitoringMetric$8425072",
+       
+"jmx Dispatch Output Traffic (total), bytes": "monitoringMetric$8425073",
+       
+"jmx Dispatch SQL Count (total)": "monitoringMetric$8425074",
+       
+"jmx Memory Code Cache Used, MB": "monitoringMetric$8425075",
+       
+"jmx JMS Queue EventAction Added (total)": "monitoringMetric$8425041",
+       
+"jmx Memory Code Cache Committed, MB": "monitoringMetric$8425076",
+       
+"jmx Memory Metaspace Committed, MB": "monitoringMetric$8425077",
+       
+"jmx JMS Queue DocumentIndexer Added (total)": "monitoringMetric$8425042",
+       
+"jmx Memory Metaspace Max, MB": "monitoringMetric$8425078",
+       
+"jmx JMS Queue EventAction Count": "monitoringMetric$8425043",
+       
+"jmx JMS Queue Advlist.Export Added (total)": "monitoringMetric$8425044",
+       
+"jmx Memory Metaspace Used, MB": "monitoringMetric$8425079",
+       
+"jmx JMS Queue DocumentIndexer Count": "monitoringMetric$8425045",
+       
+"jmx JMS Queue Advimport Added (total)": "monitoringMetric$8425047",
+       
+"jmx JMS Queue Advlist.Export Count": "monitoringMetric$8425048",
+       
+"jmx GC Minor Duration (total), ms": "monitoringMetric$8425083",
+       
+"jmx JMS Queue EventAction.Pushes Count": "monitoringMetric$8425056",
+       
+"jmx GC Full Duration (total), ms": "monitoringMetric$8425085",
+       
+"jmx JMS Queue EventAction.Pushes Added (total)": "monitoringMetric$8425058",
+       
+"jmx JMS Queue EventAction.Notifications Count": "monitoringMetric$8425059",
+       
+"jmx JMS Queue EventAction.Notifications Added (total)": "monitoringMetric$8425060",
+       
+"jmx Tomcat Threads Max": "monitoringMetric$8425090",
+       
+"jmx Tomcat Threads Count": "monitoringMetric$8425093",
+       
+"jmx JMS Queue External.EventAction Count": "monitoringMetric$8425061",
+       
+"jmx Tomcat Threads Busy": "monitoringMetric$8425095",
+       
+"jmx JMS Queue External.EventAction Added (total)": "monitoringMetric$8425062",
+       
+"jmx Tomcat Connections Count": "monitoringMetric$8425096",
+       
+"jmx JMS Queue Reports.Export Count": "monitoringMetric$8425063",
+       
+"jmx Tomcat Connections Max": "monitoringMetric$8425097",
+       
+"jmx JMS Queue Reports.Export Added (total)": "monitoringMetric$8425065",
+       
+"jmx GC Minor Count (total)": "monitoringMetric$8425099",
+       
+"jmx JMS Queue Reports.BuildReport Count": "monitoringMetric$8425066",
+       
+"jmx GC Full Count (total)": "monitoringMetric$8425100",
+       
+"jmx JMS Queue Reports.BuildReport Added (total)": "monitoringMetric$8425067",
+       
+"jmx Heap Memory Max, MB": "monitoringMetric$8425071",
+       
+"jmx Buffer Pool Direct Memory Used, bytes": "monitoringMetric$8425030",
+       
+"jmx Buffer Pool Direct Count": "monitoringMetric$8425034",
+       
+"jmx Open Files Count": "monitoringMetric$8425082",
+       
+"jmx DB Sequence Pool Connections Max": "monitoringMetric$8425084",
+       
+"jmx DB Main Pool Connections Max": "monitoringMetric$8425086",
+       
+"jmx DB Main Pool Connections Count": "monitoringMetric$8425087",
+       
+"jmx DB Sequence Pool Connections Count": "monitoringMetric$8425088",
+       
+"jmx DB Sequence Pool Connections Busy": "monitoringMetric$8425089",
+       
+"jmx DB Main Pool Connections Busy": "monitoringMetric$8425081",
+   
+"http Status, 0/1 (proxy)": "monitoringMetric$8425037",
+       
+"icmp Is Reachable, 0-1": "monitoringMetric$8425080",
+       
+"icmp Get Time, msec": "monitoringMetric$8425092",
+       
+"http Status, 0/1": "monitoringMetric$8425038",
+       
+"http availability, 0/1": "monitoringMetric$8425039",
+       
+"http availability service mode, 0/1": "monitoringMetric$8425046",
+       
+"http user licenses, 0/1": "monitoringMetric$8425049"
+},
+   
+	"servicecloud": {
+       
+"jmx Nonheap Memory Usage, MB": "monitoringMetric$8425028",
+       
+"jmx Process Cpu Load, 0-1": "monitoringMetric$8425029",
+       
+"jmx Heap Memory Usage, MB": "monitoringMetric$8425031",
+       
+"jmx System Cpu Load, 0-1": "monitoringMetric$8425033",
+       
+"jmx Thread Count": "monitoringMetric$8425094",
+       
+"jmx System Load Average, 0-1": "monitoringMetric$8425098",
+       
+"jmx Check Mail Scheduler, 0/1": "monitoringMetric$8425032",
+       
+"jmx Class Loaded Count": "monitoringMetric$8425054",
+       
+"jmx Thread Count Peak": "monitoringMetric$8425040",
+       
+"jmx Tomcat Uptime, ms": "monitoringMetric$8425091",
+       
+"jmx Rest Operations Count (total)": "monitoringMetric$8425035",
+       
+"jmx Memory Code Cache Max, MB": "monitoringMetric$8425069",
+       
+"jmx Dispatch Input Traffic (total), bytes": "monitoringMetric$8425070",
+       
+"jmx JMS Queue Advimport Count": "monitoringMetric$8425036",
+       
+"jmx Dispatch Count (total)": "monitoringMetric$8425072",
+       
+"jmx Dispatch Output Traffic (total), bytes": "monitoringMetric$8425073",
+       
+"jmx Dispatch SQL Count (total)": "monitoringMetric$8425074",
+       
+"jmx Memory Code Cache Used, MB": "monitoringMetric$8425075",
+       
+"jmx JMS Queue EventAction Added (total)": "monitoringMetric$8425041",
+       
+"jmx Memory Code Cache Committed, MB": "monitoringMetric$8425076",
+       
+"jmx Memory Metaspace Committed, MB": "monitoringMetric$8425077",
+       
+"jmx JMS Queue DocumentIndexer Added (total)": "monitoringMetric$8425042",
+       
+"jmx Memory Metaspace Max, MB": "monitoringMetric$8425078",
+       
+"jmx JMS Queue EventAction Count": "monitoringMetric$8425043",
+       
+"jmx JMS Queue Advlist.Export Added (total)": "monitoringMetric$8425044",
+       
+"jmx Memory Metaspace Used, MB": "monitoringMetric$8425079",
+       
+"jmx JMS Queue DocumentIndexer Count": "monitoringMetric$8425045",
+       
+"jmx JMS Queue Advimport Added (total)": "monitoringMetric$8425047",
+       
+"jmx JMS Queue Advlist.Export Count": "monitoringMetric$8425048",
+       
+"jmx GC Minor Duration (total), ms": "monitoringMetric$8425083",
+       
+"jmx JMS Queue EventAction.Pushes Count": "monitoringMetric$8425056",
+       
+"jmx GC Full Duration (total), ms": "monitoringMetric$8425085",
+       
+"jmx JMS Queue EventAction.Pushes Added (total)": "monitoringMetric$8425058",
+       
+"jmx JMS Queue EventAction.Notifications Count": "monitoringMetric$8425059",
+       
+"jmx JMS Queue EventAction.Notifications Added (total)": "monitoringMetric$8425060",
+       
+"jmx Tomcat Threads Max": "monitoringMetric$8425090",
+       
+"jmx Tomcat Threads Count": "monitoringMetric$8425093",
+       
+"jmx JMS Queue External.EventAction Count": "monitoringMetric$8425061",
+       
+"jmx Tomcat Threads Busy": "monitoringMetric$8425095",
+       
+"jmx JMS Queue External.EventAction Added (total)": "monitoringMetric$8425062",
+       
+"jmx Tomcat Connections Count": "monitoringMetric$8425096",
+       
+"jmx JMS Queue Reports.Export Count": "monitoringMetric$8425063",
+       
+"jmx Tomcat Connections Max": "monitoringMetric$8425097",
+       
+"jmx JMS Queue Reports.Export Added (total)": "monitoringMetric$8425065",
+       
+"jmx GC Minor Count (total)": "monitoringMetric$8425099",
+       
+"jmx JMS Queue Reports.BuildReport Count": "monitoringMetric$8425066",
+       
+"jmx GC Full Count (total)": "monitoringMetric$8425100",
+       
+"jmx JMS Queue Reports.BuildReport Added (total)": "monitoringMetric$8425067",
+       
+"jmx Heap Memory Max, MB": "monitoringMetric$8425071",
+       
+"jmx Buffer Pool Direct Memory Used, bytes": "monitoringMetric$8425030",
+       
+"jmx Buffer Pool Direct Count": "monitoringMetric$8425034",
+       
+"jmx Open Files Count": "monitoringMetric$8425082",
+       
+"jmx DB Sequence Pool Connections Max": "monitoringMetric$8425084",
+       
+"jmx DB Main Pool Connections Max": "monitoringMetric$8425086",
+       
+"jmx DB Main Pool Connections Count": "monitoringMetric$8425087",
+       
+"jmx DB Sequence Pool Connections Count": "monitoringMetric$8425088",
+       
+"jmx DB Sequence Pool Connections Busy": "monitoringMetric$8425089",
+       
+"jmx DB Main Pool Connections Busy": "monitoringMetric$8425081",
+"http Status, 0/1 (proxy)": "monitoringMetric$8425037",
+       
+"icmp Is Reachable, 0-1": "monitoringMetric$8425080",
+       
+"icmp Get Time, msec": "monitoringMetric$8425092",
+       
+"http Status, 0/1": "monitoringMetric$8425038",
+       
+"http availability, 0/1": "monitoringMetric$8425039",
+       
+"http availability service mode, 0/1": "monitoringMetric$8425046",
+       
+"http user licenses, 0/1": "monitoringMetric$8425049"  
+}
+
+}
